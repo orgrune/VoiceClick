@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleName</key><string>VoiceClick</string>
+	<key>CFBundleDisplayName</key><string>VoiceClick</string>
+	<key>CFBundleIdentifier</key><string>com.orgrunebaum.voiceclick</string>
+	<key>CFBundleExecutable</key><string>VoiceClick</string>
+	<key>CFBundlePackageType</key><string>APPL</string>
+	<key>CFBundleVersion</key><string>1</string>
+	<key>CFBundleShortVersionString</key><string>1.0</string>
+	<key>LSMinimumSystemVersion</key><string>13.0</string>
+	<key>NSHighResolutionCapable</key><true/>
+	<key>NSPrincipalClass</key><string>NSApplication</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>VoiceClick listens for spoken commands like “Continue” and clicks the matching button.</string>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>VoiceClick turns what you say into the button to click.</string>
+</dict>
+</plist>
